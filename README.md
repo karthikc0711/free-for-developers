@@ -10,6 +10,7 @@ As a developer, having access to free services can be incredibly valuable for te
 - Curated to include only relevant services.
 
 *NOTE:* This list is only for as-a-Service offerings, not for self hosted software.
+## Note: This repository is a copy of [free-for-dev](https://github.com/jixserver/free-for-dev) . by  [jixserver](https://github.com/jixserver)
 
 Table of Contents
 =================
